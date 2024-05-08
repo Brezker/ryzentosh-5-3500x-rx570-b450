@@ -18,5 +18,13 @@ Compatible MAC OS GPU
 Manufacturer Gigabyte
 
 Model B450M DS3H
-### ETC
-// Add more notes
+### ETHERNET
+Would NOT using WIFI
+
+Realtech RTL8111
+### AUDIO
+Actually using a DAC
+
+Manufacturer Behringer
+
+Model U-PHORIA UM2
